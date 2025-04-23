@@ -2,7 +2,7 @@
 
 🌱 Studiuję psychologię, ale moją drugą pasją jest programowanie. Interesuję się łączeniem technologii z edukacją, psychologią dziecięcą oraz sztuką – szczególnie arteterapią i rozwojem poprzez twórczość.  
 
-🧠 Obecnie uczę się Pythona, tworzę proste aplikacje i gry, rozwijam swoje portfolio oraz poznaję technologie webowe.
+🧠 Obecnie uczę się Pythona, LLM, tworzę proste aplikacje i gry, rozwijam swoje portfolio oraz poznaję technologie webowe.
 
 ## 💻 Moje projekty
 
