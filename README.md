@@ -28,6 +28,7 @@ Zbiór ćwiczeń i projektów stworzonych podczas kursu Code First Girls.
 ## 🔧 Technologie, które znam
 
 - Python 🐍
+- C++
 - HTML / CSS
 - Git i GitHub
 - Canva (projektowanie graficzne)
