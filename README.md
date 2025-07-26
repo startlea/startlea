@@ -37,7 +37,7 @@ Zbiór ćwiczeń i projektów stworzonych podczas kursu Code First Girls.
 ## 📫 Kontakt
 
 - 🌐 Strona: [namako.eu](https://namako.eu)
-- 📝 Blog: [Namako Psyche](https://namako.eu)
+- 📝 Blog: [Namako Psyche](https://pyche.namako.eu)
 <!-- - ✉️ E-mail: tutaj możesz dodać swój adres, jeśli chcesz -->
 <!-- - 📷 Instagram: dodaj link jeśli chcesz go udostępnić -->
 
